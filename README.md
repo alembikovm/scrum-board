@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 Launch database
 
-### `npm start:backend`
+### `npm run start:backend`
 
 Runs backend on [http://localhost:3000](http://localhost:3000)
 
