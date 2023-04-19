@@ -2,6 +2,8 @@
 
 In the project directory, you can run:
 
+0. run in root and api folder `npm ci`
+
 1. Run docker app (e.g. Docker desktop)
 
 2. Launch database:
